@@ -50,6 +50,9 @@
                         <filter>
                             <root>/apps/com.gofo.yatu.components</root>
                         </filter>
+			<filter>
+			   <root>/content/yatu-tests</root>
+			</filter>
                     </filters>
                     <embeddeds>
                         <embedded>
