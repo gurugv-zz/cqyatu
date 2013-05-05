@@ -2,3 +2,5 @@
 *.jar
 *.classpath
 *.zip
+bundle/target/
+content/target/
