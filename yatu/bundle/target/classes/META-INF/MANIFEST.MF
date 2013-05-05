@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1367730332515
+Build-Jdk: 1.6.0_37
+Built-By: ggv
+Bundle-Description: Maven Multimodule project for Yet Another Task Utili
+ ty.
+Bundle-ManifestVersion: 2
+Bundle-Name: Yet Another Task Utility Bundle
+Bundle-SymbolicName: gofoworks.yatu-bundle
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.gofo.yatu;uses:="org.osgi.framework,org.osgi.service
+ .component,org.slf4j";version="1.0.0.SNAPSHOT"
+Import-Package: org.osgi.framework;version="[1.5,2)",org.osgi.service.co
+ mponent;version="[1.1,2)",org.slf4j;version="[1.5,2)"
+Tool: Bnd-1.50.0
